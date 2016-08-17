@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Python Quiz</string>
+    <string name="python">PythonQuiz</string>
+    <string name="quiz">Quiz</string>
+</resources>

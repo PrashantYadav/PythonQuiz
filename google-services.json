@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "696412254380",
+    "firebase_url": "https://python-quiz.firebaseio.com",
+    "project_id": "python-quiz",
+    "storage_bucket": "python-quiz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:696412254380:android:c36efe8943c1ab4a",
+        "android_client_info": {
+          "package_name": "com.prashant93y.pythonquiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "696412254380-u214gh1dp39akmql5ipt8o3abs16a7r8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.prashant93y.pythonquiz",
+            "certificate_hash": "C8029AF340F64A259DE6D9AC53AAB8E80A897C9F"
+          }
+        },
+        {
+          "client_id": "696412254380-l55go8v1qve0n1pch46ogv9dsd9jrtje.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7xOY303L62DiS22YbGRxhRgWMAjnjXkY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "696412254380-l55go8v1qve0n1pch46ogv9dsd9jrtje.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
